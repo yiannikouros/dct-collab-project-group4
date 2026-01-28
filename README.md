@@ -1,2 +1,4 @@
-# dct-collab-project-group4
-An AI-driven web-app hosted on AWS
+# DCT Collab Project – Group 4
+
+Documentation repo for the serverless image labeling application.
+More details coming soon.
